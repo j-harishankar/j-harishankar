@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack developer who loves building meaningful digital experiences. Whether it's designing intuitive UIs or solving complex backend logic, I enjoy being involved in the entire journey — from pixels to production.<br><br><br>👨‍💻 About Me<br><br>- 🔭 Currently working on full-stack applications using **Django**, **PostgreSQL**, **HTML**, and **CSS**<br>- 🌱 Always learning — currently exploring **advanced Django** features and **AI integrations**<br>- 💡 I enjoy solving real-world problems and automating repetitive tasks<br>- 🧠 I believe clean code = kind code. Writing readable and maintainable code brings me joy<br>- 🗣️ Focused on improving communication skills and contributing meaningfully to my final year project<br>- 🧩 Fun fact: I love simplifying complex tech concepts into visuals and analogies<br><br><br> 🛠️ Tech Stack<br><br><br>Languages: Java, C, Python, HTML, CSS, Dart  <br>Frontend: CSS, Flutter  <br>Backend: Django, Firebase  <br>Databases: MongoDB, Firebase, PostgreSQL, MySQL  <br>Tools: Git, VS Code, PyCharm, Canva</p>
+<h4 align="left">I'm a passionate full-stack developer who loves building meaningful digital experiences. Whether it's designing intuitive UIs or solving complex backend logic, I enjoy being involved in the entire journey — from pixels to production.<br><br><br>👨‍💻 About Me<br><br>- 🔭 Currently working on full-stack applications using **Django**, **PostgreSQL**, **HTML**, and **CSS**<br>- 🌱 Always learning — currently exploring **advanced Django** features and **AI integrations**<br>- 💡 I enjoy solving real-world problems and automating repetitive tasks<br>- 🧠 I believe clean code = kind code. Writing readable and maintainable code brings me joy<br>- 🗣️ Focused on improving communication skills and contributing meaningfully to my final year project<br>- 🧩 Fun fact: I love simplifying complex tech concepts into visuals and analogies<br><br><br> 🛠️ Tech Stack<br><br><br>Languages: Java, C, Python, HTML, CSS, Dart  <br>Frontend: CSS, Flutter  <br>Backend: Django, Firebase  <br>Databases: MongoDB, Firebase, PostgreSQL, MySQL  <br>Tools: Git, VS Code, PyCharm, Canva</h4>
 
 ###
 
@@ -61,9 +61,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/j-harishankar/j-harishankar/output/snake.svg" alt="Snake animation" />
 
 ###
