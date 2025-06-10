@@ -11,7 +11,7 @@ I'm a passionate full-stack developer who loves building meaningful digital expe
 - 💡 I enjoy solving real-world problems and automating repetitive tasks<br>
 - 🧠 I believe clean code = kind code. Writing readable and maintainable code brings me joy<br>
 - 🗣️ Focused on improving communication skills and contributing meaningfully to my final year project<br>
-- 🤩 Fun fact: I love simplifying complex tech concepts into visuals and analogies<br><br>
+- 🤩 Fun fact: I love getting my hands dirty and trying out all sorts of new tech!<br><br>
 
 🛠️ <strong>Tech Stack</strong><br><br>
 <strong>Languages</strong><br>
