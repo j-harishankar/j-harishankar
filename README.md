@@ -72,4 +72,6 @@ I'm a passionate full-stack developer who loves building meaningful digital expe
   <a href="https://wa.me/917994031462" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
+  <br>  <img src="https://komarev.com/ghpvc/?username=j-harishankar&color=brightgreen" height="35" alt="Profile views" />
+</div>
 </div>
