@@ -51,7 +51,12 @@ I'm a passionate full-stack developer who loves building meaningful digital expe
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-harishankar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=j-harishankar&show_icons=true&theme=dracula&hide_border=false" 
+  height="150" 
+  alt="GitHub stats" 
+/>
+
   <img src="https://streak-stats.demolab.com?user=j-harishankar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
