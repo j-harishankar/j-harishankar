@@ -109,7 +109,12 @@
   
   ## 📊 **GitHub Statistics**
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2&section=header"/>
+  <img
+  src="https://github-readme-streak-stats-eight.vercel.app?user=j-harishankar&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"
+  height="180"
+  alt="streak graph"
+/>
+
 </div>
 
 <br>
@@ -118,7 +123,9 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=j-harishankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15" height="180" alt="GitHub stats" />
+       <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-harishankar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" width=auto/>
+</div>
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=j-harishankar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" height="180" alt="streak graph" />
