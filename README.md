@@ -100,44 +100,30 @@
   </div>
   
 </div>
-
-<br><br>
-
 <!-- GitHub Stats Section -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=2&section=header"/>
-  
-  ## 📊 **GitHub Statistics**
-  
-  <img
-  src="https://github-readme-streak-stats-eight.vercel.app?user=j-harishankar&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"
-  height="180"
-  alt="streak graph"
-/>
 
-</div>
+  <h2>📊 <strong>GitHub Statistics</strong></h2>
 
-<br>
-
-<div align="center">
   <table>
     <tr>
       <td>
-       <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-harishankar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" width=auto/>
-</div>
+        <img src="https://github-readme-stats.vercel.app/api?username=j-harishankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15" height="180" alt="GitHub stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=j-harishankar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" height="180" alt="streak graph" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=j-harishankar&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" height="180" alt="streak graph" />
       </td>
     </tr>
   </table>
-  
+
   <br>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15" height="200" alt="languages graph" />
-  
+
   <br><br>
+</div>
+
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=j-harishankar&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=15" width="100%" alt="Activity Graph"/>
