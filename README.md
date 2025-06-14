@@ -200,4 +200,14 @@
 
 </div>
 
+<details>
+  <summary> Credits</summary>
+  <ul>
+    <li> <a href="https://github.com/Platane/snk">Platane/snk</a> – Snake animation</li>
+    <li> <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
+    <li> <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></li>
+    <li> <a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710/github-readme-activity-graph</a></li>
+    <li> <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a></li>
+  </ul>
+</details>
 
