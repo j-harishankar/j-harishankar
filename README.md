@@ -43,63 +43,79 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
   
-  ## 🛠️ **Tech Stack**
-  
+  <h2>🛠️ <strong>Tech Stack</strong></h2>
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=2&section=header"/>
 </div>
 
 <br>
 
 <div align="center">
-  
-  ### **Languages**
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java"/>
-    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" title="C"/>
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python"/>
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5"/>
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3"/>
-    <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" title="Dart"/>
-  </div>
-  
+
+<details open>
+  <summary><strong>Languages</strong></summary>
   <br>
-  
-  ### **Frontend**
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5"/>
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3"/>
-    <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" title="Flutter"/>
+    <img src="https://skillicons.dev/icons?i=java" height="50"/>
+    <img src="https://skillicons.dev/icons?i=c" height="50"/>
+    <img src="https://skillicons.dev/icons?i=python" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html" height="50"/>
+    <img src="https://skillicons.dev/icons?i=css" height="50"/>
+    <img src="https://skillicons.dev/icons?i=dart" height="50"/>
   </div>
-  
+</details>
+
+<br>
+
+<details open>
+  <summary><strong>Frontend</strong></summary>
   <br>
-  
-  ### **Backend**
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" title="Django"/>
-    <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" title="Firebase"/>
+    <img src="https://skillicons.dev/icons?i=html" height="50"/>
+    <img src="https://skillicons.dev/icons?i=css" height="50"/>
+    <img src="https://skillicons.dev/icons?i=flutter" height="50"/>
   </div>
-  
+</details>
+
+<br>
+
+<details open>
+  <summary><strong>Backend</strong></summary>
   <br>
-  
-  ### **Databases**
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" title="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase DB" title="Firebase DB"/>
-    <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=django" height="50"/>
+    <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
   </div>
-  
+</details>
+
+<br>
+
+<details open>
+  <summary><strong>Databases</strong></summary>
   <br>
-  
-  ### **Tools**
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git"/>
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" title="VS Code"/>
-    <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="PyCharm" title="PyCharm"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" title="Canva"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+    <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   </div>
-  
+</details>
+
+<br>
+
+<details open>
+  <summary><strong>Tools</strong></summary>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=git" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
+  </div>
+</details>
+
 </div>
+
 <!-- GitHub Stats Section -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=2&section=header"/>
