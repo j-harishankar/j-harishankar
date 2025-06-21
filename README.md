@@ -168,7 +168,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" height="40" alt="discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jharivichu@gmail.com" target="_blank">
+  <a href="jharivichu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="gmail" />
   </a>
   &nbsp;&nbsp;
