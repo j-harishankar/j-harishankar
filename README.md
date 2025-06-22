@@ -125,17 +125,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=j-harishankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15&v=3" height="180" alt="GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=j-harishankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15&v=4" height="180" alt="GitHub stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=j-harishankar&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&v=3" height="180" alt="streak graph" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=j-harishankar&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&v=4" height="180" alt="streak graph" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&v=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&v=3" height="200" alt="languages graph" />
 
   <br><br>
 </div>
