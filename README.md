@@ -29,7 +29,7 @@
   <br>
   
   - 🔭 Currently working on full-stack applications using **Django**, **PostgreSQL**, **HTML**, and **CSS**
-  - 🌱 Always learning — currently exploring **advanced Django** features and **AI integrations**
+  - 🌱 Always learning — currently exploring **advanced Django Feature**,**GCP** and **AI integrations**
   - 💡 I enjoy solving real-world problems and automating repetitive tasks
   - 🧠 I believe clean code = kind code. Writing readable and maintainable code brings me joy
   - 🗣️ Focused on improving communication skills and contributing meaningfully to my final year project
