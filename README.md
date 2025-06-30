@@ -111,6 +111,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
     <img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman API"/>
   </div>
 </details>
 
