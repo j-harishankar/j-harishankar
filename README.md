@@ -142,8 +142,9 @@
   <details open>
     <summary>🏆 <strong>GitHub Achievements</strong></summary>
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=j-harishankar&theme=tokyonight&no-bg=true&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories&margin-w=15&margin-h=15" alt="GitHub Achievements" />
-  </details>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=j-harishankar&theme=radical&no-frame=true&no-bg=false&margin-w=4"/><br/>
+</div>
 
 </div>
 
