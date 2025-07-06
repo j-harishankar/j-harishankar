@@ -116,6 +116,7 @@
 </div>
 
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=2&section=header"/>
 
@@ -137,7 +138,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&v=7" height="200" alt="languages graph" />
 
   <br><br>
+
+  <details open>
+    <summary>🏆 <strong>GitHub Achievements</strong></summary>
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=j-harishankar&theme=tokyonight&no-bg=true&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+  </details>
+
 </div>
+
+
 
   
   <!-- Activity Graph -->
@@ -189,15 +199,16 @@
 
 <br>
 
+---
+
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer&animation=twinkling&text=&desc=⭐%20If%20you%20like%20it,%20give%20a%20star!%20⭐&descSize=18&descAlign=50&fontColor=ffffff"/>
 </div>
+
 
 ---
-<sub>⭐ If you find my work interesting, consider giving it a star! ⭐</sub>
 
-</div>
 
 <details>
   <summary> Credits</summary>
