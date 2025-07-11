@@ -22,7 +22,7 @@
   
   ## 👨‍💻 **About Me**
   
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Hacking" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   I'm a passionate full-stack developer who loves building meaningful digital experiences. Whether it's designing intuitive UIs or solving complex backend logic, I enjoy being involved in the entire journey — from pixels to production.
   
