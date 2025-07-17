@@ -132,7 +132,7 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&v=9" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-harishankar&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&v=10" height="200" alt="languages graph" />
 
   <br><br>
 
