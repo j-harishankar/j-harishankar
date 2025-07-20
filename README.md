@@ -108,11 +108,29 @@
     <img src="https://skillicons.dev/icons?i=git" height="50"/>
     <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
     <img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman API"/>  </div>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman API"/>  
+  </div>
 </details>
 
+<br>
+
+<details open>
+  <summary><strong>Cloud Techs</strong></summary>
+  <br>
+  <details>
+    <summary><strong>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="Google Cloud Platform"/> GCP
+    </strong></summary>
+    <br>
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <strong>GKE</strong><br>
+  <strong>App Engine</strong><br>
+  <strong>Compute Engine</strong><br>
+  <strong>Cloud Run</strong><br>
+  <strong>Cloud Functions</strong>
 </div>
 
+</div>
 <!-- GitHub Stats Section -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 
