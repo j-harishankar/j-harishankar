@@ -11,7 +11,7 @@
 
   
   <!-- GitHub Followers Badge -->
-  <img src="https://img.shields.io/github/followers/j-harishankar?label=Follow&style=social"/>
+  <img src="https://img.shields.io/github/followers/j-harishankar?label=Followers&style=social"/>
   
 </div>
 
