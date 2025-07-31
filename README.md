@@ -3,6 +3,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20J.%20Harishankar&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
   
   <!-- Enhanced Typing Animation with More Lines and Glow Effect -->
+
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=130&lines=🚀+Full+Stack+Developer;👨‍💻+Open+Source+Contributor;🌱+Tech+Explorer;💡+Innovation+Enthusiast;🔥+Problem+Solver" alt="Typing SVG" />
   
   <!-- Enhanced Profile Views Counter with Animation -->
