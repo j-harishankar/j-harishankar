@@ -1,5 +1,6 @@
 <div align="center">
   <!-- Enhanced Animated Header with More Colors -->
+  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20J.%20Harishankar&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
   
   <!-- Enhanced Typing Animation with More Lines and Glow Effect -->
