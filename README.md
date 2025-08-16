@@ -181,7 +181,7 @@
   <br>
 
   <!-- Circular Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-harishankar&layout=donut&theme=radical&hide_border=true&bg_color=0,000000,130F40&title_color=FF6E96&text_color=FFFFFF&border_radius=20" height="250" alt="languages donut chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-harishankar&layout=donut&theme=radical&hide=html,css&hide_border=true&bg_color=0,000000,130F40&title_color=FF6E96&text_color=FFFFFF&border_radius=20" height="250" alt="languages donut chart" />
 
   <br><br>
 
