@@ -97,7 +97,6 @@
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=django&theme=dark" height="60"/>
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="60"/>
-    <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="60"/>
   </div>
 </details>
 
