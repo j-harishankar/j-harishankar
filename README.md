@@ -86,19 +86,22 @@
     <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"/>
     <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"/>
     <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="60"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="60" alt="Streamlit"/>
   </div>
 </details>
 
-<br>
 
+<br>
 <details open>
   <summary><strong>⚙️ Backend & Frameworks</strong></summary>
   <br>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=django&theme=dark" height="60"/>
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="60" alt="LangChain"/>
   </div>
 </details>
+
 
 <br>
 
